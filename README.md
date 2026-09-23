@@ -76,7 +76,7 @@ Left Subtree → Right Subtree → Root
 ## Application Menu
 
 ```text
-===== BINARY SEARCH TREE =====
+     BINARY SEARCH TREE     
 1. Add Value
 2. Remove Value
 3. Find Value
