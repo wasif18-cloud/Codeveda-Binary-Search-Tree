@@ -1,12 +1,6 @@
 # Binary Search Tree (BST) Implementation
 
-## Task 3: Binary Search Tree (BST) Implementation
-
-**Level:** 3 (Advanced)  
-**Language:** Java  
-**Type:** Console-Based Application
-
-## Project Description
+## Description
 
 This project implements a Binary Search Tree (BST) in Java. The application allows users to insert, delete, and search for values. It also supports in-order, pre-order, and post-order tree traversals through a menu-driven console interface.
 
@@ -90,26 +84,6 @@ Left Subtree → Right Subtree → Root
 5. Preorder Traversal
 6. Postorder Traversal
 7. Exit
-```
-
-## How to Run
-
-Save the Java file as:
-
-```text
-BSTProgram.java
-```
-
-Compile the program:
-
-```bash
-javac BSTProgram.java
-```
-
-Run the program:
-
-```bash
-java BSTProgram
 ```
 
 ## Deletion Cases
